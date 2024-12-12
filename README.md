@@ -33,8 +33,9 @@ git clone https://github.com/yourusername/digital-clock.git
 cd digital-clock
 
 Run this application: 
-
+```bash
 python digital_clock.py
+```
 
 
 ## 🚀 How It Works
@@ -42,12 +43,15 @@ python digital_clock.py
 1.	When the program starts, a window appears displaying the current time.
 2.	The time is updated every second using a QTimer.
 3.	The time is displayed in a visually appealing style:
+   
 	  •	Large green text (font-size: 150px) on a black background.
 	  •	Center-aligned for a clean look.
 
 ## 🔮 Future Enhancements
 
 •	Add an alarm feature with custom sound notifications.
+
 •	Provide options to change time format (e.g., 24-hour vs. 12-hour).
+
 •	Allow users to customize font color, size, and background.
 
