@@ -29,8 +29,10 @@ pip install pyqt5
 ## 🔧 Installation and Setup
 Clone this repository to your local machine:
 
+```bash
 git clone https://github.com/yourusername/digital-clock.git
 cd digital-clock
+```
 
 Run this application: 
 ```bash
@@ -45,6 +47,7 @@ python digital_clock.py
 3.	The time is displayed in a visually appealing style:
    
 	  •	Large green text (font-size: 150px) on a black background.
+  	
 	  •	Center-aligned for a clean look.
 
 ## 🔮 Future Enhancements
