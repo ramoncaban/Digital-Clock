@@ -14,7 +14,7 @@ A sleek digital clock application built with **Python** and **PyQt5**. This appl
 - **PyQt5**: For building the graphical user interface (GUI).
 
 ## 📸 Screenshot
-![Digital Clock Screenshot](path/to/screenshot.png)
+![Digital Clock Screenshot](screenshot.png)
 
 ## 📋 Prerequisites
 Before running the application, ensure you have the following installed:
