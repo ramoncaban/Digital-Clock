@@ -25,3 +25,11 @@ Before running the application, ensure you have the following installed:
 Install PyQt5 using:
 ```bash
 pip install pyqt5
+```
+## 🔧 Installation and Setup
+Clone this repository to your local machine:
+git clone https://github.com/yourusername/digital-clock.git
+cd digital-clock
+
+run this application: 
+python digital_clock.py
