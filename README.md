@@ -30,7 +30,7 @@ pip install pyqt5
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/digital-clock.git
+git clone https://github.com/ramoncaban/digital-clock.git
 cd digital-clock
 ```
 
